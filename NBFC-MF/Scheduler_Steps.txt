@@ -1,0 +1,11 @@
+Steps
+
+1. Open Calendar_Scheduler.xlxs. Choose the Portfolio tab.
+2. Open VBA Editor using shortcut key Alt+F11
+3. Open Module5
+4. Run the module to copy Portfolio on Calendar_Scheduler
+
+
+5. Choose Calendar tab and update the date to fetch the daily and weekly emi
+6. Choose Scheduler to see the projected cummulated EMIs
+7. Plan the week to give LOANS and other expenses like Marup etc.
